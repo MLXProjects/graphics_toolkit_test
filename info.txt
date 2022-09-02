@@ -1,0 +1,18 @@
+Must have/Tiene que tener:
+* display & input drivers
+* color engine
+* canvas
+* text
+
+Fancy things/Cosas copadas:
+* window manager
+* draw primitive forms (circle, rectangle, triangle)
+* draw paths
+* fonts
+* languages (string arrays & lookup table)
+* multithreading?
+
+Lib init steps/Pasos para iniciar lib:
+1) get display
+2) get input (input itself is optional, must have exit event receiver)
+3) done?
